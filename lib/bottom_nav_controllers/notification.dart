@@ -13,7 +13,7 @@ class _NotificationsState extends State<Notifications> {
     return Scaffold(
       backgroundColor: Colors.brown.shade900,
       body: Center(
-        child: Text("This is Rounding screen"),
+        child: Container(),
       ),
     );
   }
